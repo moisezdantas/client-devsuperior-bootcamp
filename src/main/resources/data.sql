@@ -1,0 +1,12 @@
+INSERT INTO tb_client (name, cpf, income,  birth_Date, children, created_at) VALUES ('Maria Heloiza', '90786957069', 6500.00, now(), 1, now());
+INSERT INTO tb_client (name, cpf, income,  birth_Date, children, created_at) VALUES ('Fernando Souza', '16808855021', 5500.00, now(), 2, now());
+INSERT INTO tb_client (name, cpf, income,  birth_Date, children, created_at) VALUES ('Armando Vieira', '51131068017', 5550.00, now(), 2, now());
+INSERT INTO tb_client (name, cpf, income,  birth_Date, children, created_at) VALUES ('Diego Souza', '63624436082', 5100.00, now(), 3, now());
+INSERT INTO tb_client (name, cpf, income,  birth_Date, children, created_at) VALUES ('Robson Silva', '99753007078', 5500.00, now(), 1, now());
+INSERT INTO tb_client (name, cpf, income,  birth_Date, children, created_at) VALUES ('Adriano Dantas', '28057176008', 5500.00, now(), 4, now());
+INSERT INTO tb_client (name, cpf, income,  birth_Date, children, created_at) VALUES ('Rafael Souza', '78636048001', 5500.00, now(), 5, now());
+INSERT INTO tb_client (name, cpf, income,  birth_Date, children, created_at) VALUES ('Lusuefoe Perreira', '72314827082', 5500.00, now(), 1, now());
+INSERT INTO tb_client (name, cpf, income,  birth_Date, children, created_at) VALUES ('Piseomgog Oliveira', '40631409033', 5500.00, now(), 0, now());
+INSERT INTO tb_client (name, cpf, income,  birth_Date, children, created_at) VALUES ('Delnyo Pinto', '10299182010', 5500.00, now(), 0, now());
+INSERT INTO tb_client (name, cpf, income,  birth_Date, children, created_at) VALUES ('Omci Souza', '65664409096', 5500.00, now(), 3, now());
+INSERT INTO tb_client (name, cpf, income,  birth_Date, children, created_at) VALUES ('Amos Ferreira', '10062398040', 5500.00, now(), 4, now());	
